@@ -1,0 +1,26 @@
+{
+	"toDo_0": {
+		"completedBy": "2018-10-19",
+		"completed": false,
+		"dateCreated": "2018-10-01",
+		"description": "Brush your teeth after preparing breakfast and reading the latest news...",
+		"overdue": false,
+		"priority": "low"
+	},
+	"toDo_1": {
+		"completedBy": "2018-10-19",
+		"completed": false,
+		"dateCreated": "2018-10-01",
+		"description": "Take the dog for a walk",
+		"overdue": false,
+		"priority": "low"
+	},
+	"toDo_2": {
+		"completedBy": "2018-10-19",
+		"completed": false,
+		"dateCreated": "2018-10-01",
+		"description": "Talk to financial advisor about investment options.",
+		"overdue": false,
+		"priority": "low"
+	}
+}
