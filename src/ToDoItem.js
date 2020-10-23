@@ -33,7 +33,6 @@ class ToDoItem extends React.Component {
     }
 
     handleRadioChange = (ev) => {
-        //FUKN NO!!! ev.preventDefault();
         this.props.updateCompleted(this.props.index);
     }
 
@@ -79,8 +78,6 @@ class ToDoItem extends React.Component {
             </li>
         )
     }
-
-
 }
 
 export default ToDoItem;
